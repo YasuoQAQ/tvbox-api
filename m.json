@@ -321,7 +321,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/nkvlog.json"
     },
     {
@@ -332,7 +332,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/Free影视.json"
     },
     {
@@ -438,7 +438,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./libs/虎虎.json",
-      "jar": "./libs/jar/c.jar"
+      "jar": "./libs/jar/Panda.jar"
     },
     {
       "key": "csp_SC1080",
@@ -458,7 +458,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/兄弟.json"
     },
     {
@@ -499,7 +499,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/hanjulao.json"
     },
     {
@@ -1267,7 +1267,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/蘑菇.json"
     },
     {
@@ -1278,7 +1278,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/胖虎.json"
     },
     {
@@ -1289,7 +1289,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/蛋蛋影视.json"
     },
     {
@@ -1300,7 +1300,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/达达龟影视.json"
     },
     {
@@ -1311,7 +1311,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/黑狐影视.json"
     },
     {
@@ -1322,7 +1322,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/奇优影院.json"
     },
     {
@@ -1333,7 +1333,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/TVB云播.json"
     },
     {
@@ -1344,7 +1344,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/骚火影视.json"
     },
     {
@@ -1355,7 +1355,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/农民影视.json"
     },
     {
@@ -1366,7 +1366,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/奇优影视.json"
     },
     {
@@ -1377,7 +1377,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/疯狗影视.json"
     },
     {
@@ -1388,7 +1388,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/万达影视.json"
     },
     {
@@ -1399,7 +1399,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/爱看影视.json"
     },
     {
@@ -1410,7 +1410,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/七新影视.json"
     },
     {
@@ -1421,7 +1421,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/超前B站.json"
     },
     {
@@ -1432,7 +1432,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/4k剧院.json"
     },
     {
@@ -1443,7 +1443,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/真不卡影视.json"
     },
     {
@@ -1454,7 +1454,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/五五影视.json"
     },
     {
@@ -1465,7 +1465,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/新视觉影视.json"
     },
     {
@@ -1476,7 +1476,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/圣城影视.json"
     },
     {
@@ -1487,7 +1487,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/好戏影视.json"
     },
     {
@@ -1498,7 +1498,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/七月影视.json"
     },
     {
@@ -1509,7 +1509,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/348影视.json"
     },
     {
@@ -1520,7 +1520,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/土豪影视.json"
     },
     {
@@ -1531,7 +1531,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/YYDS影视.json"
     },
     {
@@ -1542,7 +1542,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/苹果影视.json"
     },
     {
@@ -1553,7 +1553,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/米爱影视.json"
     },
     {
@@ -1564,7 +1564,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/非凡资源网.json"
     },
     {
@@ -1575,7 +1575,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/量子资源网.json"
     },
     {
@@ -1586,7 +1586,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/nkdyw.json"
     },
     {
@@ -1597,7 +1597,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/555电影.json"
     },
     {
@@ -1608,7 +1608,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/voflix.json"
     },
     {
@@ -1619,7 +1619,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/nkvod.json"
     },
     {
@@ -1630,7 +1630,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/lkvod.json"
     },
     {
@@ -2108,7 +2108,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/维奇动漫.json"
     },
     {
@@ -2206,7 +2206,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/酷奇MV.json"
     },
     {
@@ -2299,7 +2299,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/短剧网.json"
     },
     {
@@ -2342,7 +2342,7 @@
       "name": "🎦┃短剧┃葡萄",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/HCCX.jar",
       "ext": {
         "数组": "class=\"stui-vodlist__box&&</li",
         "分类url": "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",
@@ -2357,7 +2357,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/XBPQ.jar",
       "ext": {
         "分类url": "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html",
         "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"
@@ -2799,7 +2799,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "jar": "./libs/jar/c.jar",
+      "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/短视频聚合.json"
     }
   ],
