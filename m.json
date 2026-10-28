@@ -1152,39 +1152,6 @@
       "ext": "http://xiutan.shiyifacai.com/zuoan/api.php/app/"
     },
     {
-      "key": "cc_乌鸦",
-      "name": "🐦┃乌鸦┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./libs/jar/c.jar",
-      "ext": "./libs/c/乌鸦.json"
-    },
-    {
-      "key": "cc_茶杯狐",
-      "name": "🍵┃茶杯┃狐",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./libs/jar/c.jar",
-      "ext": "./libs/c/茶杯狐.json"
-    },
-    {
-      "key": "cc_热播之家",
-      "name": "🔥┃热播┃之家",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./libs/jar/c.jar",
-      "ext": "./libs/c/热播之家.json"
-    },
-    {
       "key": "cc_shdy2",
       "name": "🔥┃骚火┃电影",
       "type": 3,
@@ -1207,17 +1174,6 @@
       "ext": "./libs/c/黑狐.json"
     },
     {
-      "key": "cc_蛋蛋",
-      "name": "🥚┃蛋蛋┃看剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./libs/jar/c.jar",
-      "ext": "./libs/c/蛋蛋剧.json"
-    },
-    {
       "key": "csp_小胡",
       "name": "👒┃小胡┃资源┃",
       "type": 1,
@@ -1225,83 +1181,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "cc_相声",
-      "name": "📻┃相声┃合集",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./libs/jar/c.jar",
-      "ext": "./libs/c/相声.json"
-    },
-    {
-      "key": "cc_评书",
-      "name": "📻┃评书┃合集",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./libs/jar/c.jar",
-      "ext": "./libs/c/评书.json"
-    },
-    {
-      "key": "cc_03影院",
-      "name": "🛀┃03┃影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./libs/jar/c.jar",
-      "ext": "./libs/c/03yy.json"
-    },
-    {
-      "key": "csp_蘑菇",
-      "name": "🍄┃蘑菇┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./libs/jar/HCCX.jar",
-      "ext": "./libs/hccx/蘑菇.json"
-    },
-    {
-      "key": "csp_胖虎",
-      "name": "🐯┃胖虎┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./libs/jar/HCCX.jar",
-      "ext": "./libs/hccx/胖虎.json"
-    },
-    {
-      "key": "csp_蛋蛋",
-      "name": "🌊┃蛋蛋┃影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./libs/jar/HCCX.jar",
-      "ext": "./libs/hccx/蛋蛋影视.json"
-    },
-    {
-      "key": "csp_达龟",
-      "name": "🐢┃达龟┃影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./libs/jar/HCCX.jar",
-      "ext": "./libs/hccx/达达龟影视.json"
     },
     {
       "key": "csp_黑狐",
@@ -1348,17 +1227,6 @@
       "ext": "./libs/hccx/骚火影视.json"
     },
     {
-      "key": "csp_农民",
-      "name": "🅱️┃农民┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./libs/jar/HCCX.jar",
-      "ext": "./libs/hccx/农民影视.json"
-    },
-    {
       "key": "csp_奇优",
       "name": "🅱️┃奇优┃影视",
       "type": 3,
@@ -1368,28 +1236,6 @@
       "filterable": 1,
       "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/奇优影视.json"
-    },
-    {
-      "key": "csp_疯狗",
-      "name": "🅱️┃疯狗┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./libs/jar/HCCX.jar",
-      "ext": "./libs/hccx/疯狗影视.json"
-    },
-    {
-      "key": "csp_万达",
-      "name": "🅱️┃万达┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./libs/jar/HCCX.jar",
-      "ext": "./libs/hccx/万达影视.json"
     },
     {
       "key": "csp_爱看",
@@ -1414,39 +1260,6 @@
       "ext": "./libs/hccx/七新影视.json"
     },
     {
-      "key": "csp_超前",
-      "name": "🅱️┃超前┃点播",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./libs/jar/HCCX.jar",
-      "ext": "./libs/hccx/超前B站.json"
-    },
-    {
-      "key": "csp_玖摇",
-      "name": "🅱️┃4K┃剧院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./libs/jar/HCCX.jar",
-      "ext": "./libs/hccx/4k剧院.json"
-    },
-    {
-      "key": "csp_不卡",
-      "name": "🅱️┃不卡┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./libs/jar/HCCX.jar",
-      "ext": "./libs/hccx/真不卡影视.json"
-    },
-    {
       "key": "csp_午舞",
       "name": "🅱️┃午舞┃影视",
       "type": 3,
@@ -1456,17 +1269,6 @@
       "filterable": 1,
       "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/五五影视.json"
-    },
-    {
-      "key": "csp_视觉",
-      "name": "🅱️┃视觉┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./libs/jar/HCCX.jar",
-      "ext": "./libs/hccx/新视觉影视.json"
     },
     {
       "key": "csp_圣城",
@@ -1491,17 +1293,6 @@
       "ext": "./libs/hccx/好戏影视.json"
     },
     {
-      "key": "csp_七月",
-      "name": "🅱️┃七月┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./libs/jar/HCCX.jar",
-      "ext": "./libs/hccx/七月影视.json"
-    },
-    {
       "key": "csp_日后",
       "name": "🅱️┃348┃影视",
       "type": 3,
@@ -1513,17 +1304,6 @@
       "ext": "./libs/hccx/348影视.json"
     },
     {
-      "key": "csp_土豪",
-      "name": "🅱️┃土豪┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./libs/jar/HCCX.jar",
-      "ext": "./libs/hccx/土豪影视.json"
-    },
-    {
       "key": "csp_兔年",
       "name": "🅱️┃┃YYDS┃影视",
       "type": 3,
@@ -1533,28 +1313,6 @@
       "filterable": 1,
       "jar": "./libs/jar/HCCX.jar",
       "ext": "./libs/hccx/YYDS影视.json"
-    },
-    {
-      "key": "csp_苹果",
-      "name": "🅱️┃苹果┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./libs/jar/HCCX.jar",
-      "ext": "./libs/hccx/苹果影视.json"
-    },
-    {
-      "key": "csp_米爱",
-      "name": "🅱️┃米爱┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./libs/jar/HCCX.jar",
-      "ext": "./libs/hccx/米爱影视.json"
     },
     {
       "key": "csp_非凡",
@@ -2101,17 +1859,6 @@
       "filterable": 1
     },
     {
-      "key": "mtv_xp_维奇动漫",
-      "name": "🐼维奇丨动漫",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "jar": "./libs/jar/HCCX.jar",
-      "ext": "./libs/hccx/维奇动漫.json"
-    },
-    {
       "key": "cctv",
       "name": "📺央视｜大全",
       "type": 3,
@@ -2199,17 +1946,6 @@
       "changeable": 1
     },
     {
-      "key": "csp_酷奇",
-      "name": "🎤┃酷奇┃音乐",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "jar": "./libs/jar/HCCX.jar",
-      "ext": "./libs/hccx/酷奇MV.json"
-    },
-    {
       "key": "88js",
       "name": "⚽ 88┃看球",
       "playerType": 1,
@@ -2290,17 +2026,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./libs/js/a8音乐.js"
-    },
-    {
-      "key": "csp_短剧",
-      "name": "🎧刷刷｜短剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "jar": "./libs/jar/HCCX.jar",
-      "ext": "./libs/hccx/短剧网.json"
     },
     {
       "key": "csp_聚短视频",
@@ -2790,17 +2515,6 @@
           }
         ]
       }
-    },
-    {
-      "key": "短视频",
-      "name": "📱┃网红┃美女",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "jar": "./libs/jar/HCCX.jar",
-      "ext": "./libs/hccx/短视频聚合.json"
     }
   ],
   "parses": [
