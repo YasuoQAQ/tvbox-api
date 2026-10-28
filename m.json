@@ -13,6 +13,27 @@
       "filterable": 0
     },
     {
+      "key": "csp_KungFu404",
+      "name": "🔥┃设置Token",
+      "type": 3,
+      "api": "csp_KungFu404",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "jar": "./libs/jar/Token.jar",
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
+    },
+    {
+      "key": "APP商店",
+      "name": "🎰┃蜂蜜┃商店",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "./libs/market.json",
+      "jar": "./libs/jar/app.jar"
+    },
+    {
       "key": "直播转点播",
       "name": "📺︎┃电视┃点播",
       "playerType": 1,
@@ -236,8 +257,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "playerType": "1",
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/jp.js"
+      "api": "./libs/js/drpy2.min.js",
+      "ext": "./libs/js/jp.js"
     },
     {
       "key": "厂长",
@@ -291,6 +312,28 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "https://www.xb6v.com/"
+    },
+    {
+      "key": "csp_nkvlog",
+      "name": "💢┃耐看┃电影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/hccx/nkvlog.json"
+    },
+    {
+      "key": "csp_Free",
+      "name": "💰️┃Free┃影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/hccx/Free影视.json"
     },
     {
       "key": "csp_KmeiJu",
@@ -386,8 +429,16 @@
       "type": 3,
       "playerType": "2",
       "api": "./libs/js/drpy2.min.js",
-      "ext": "./lib/TVB云播.js",
+      "ext": "./libs/js/TVB云播.js",
       "jar": "./libs/jar/Panda.jar"
+    },
+    {
+      "key": "虎虎1",
+      "name": "🐯┃虎虎┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./libs/虎虎.json",
+      "jar": "./libs/jar/c.jar"
     },
     {
       "key": "csp_SC1080",
@@ -398,6 +449,17 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "./libs/jar/Panda.jar"
+    },
+    {
+      "key": "csp_兄弟",
+      "name": "💢┃兄弟┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/hccx/兄弟.json"
     },
     {
       "key": "csp_Duopan",
@@ -428,6 +490,17 @@
       "filterable": 1,
       "ext": "[排序:lz线路,kuaik]",
       "jar": "./libs/jar/XYQH.jar"
+    },
+    {
+      "key": "csp_hanjulao",
+      "name": "🏵┃韩剧┃高清",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/hccx/hanjulao.json"
     },
     {
       "key": "XYQH_JOJO",
@@ -513,7 +586,7 @@
       "key": "聚短视频js",
       "name": "📽️聚短┃视频",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./libs/js/drpy2.min.js",
       "ext": "./lib/短视频.js",
       "searchable": 0,
       "quickSearch": 0,
@@ -523,8 +596,8 @@
       "key": "有声小说js",
       "name": "🎧有声┃小说",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/有声小说吧.js",
+      "api": "./libs/js/drpy2.min.js",
+      "ext": "./libs/js/有声小说吧.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -1034,6 +1107,19 @@
       "changeable": 0
     },
     {
+      "key": "即可",
+      "name": "👋1080P┃即刻",
+      "type": 3,
+      "jar": "./libs/jar/c.jar",
+      "api": "csp_XBPQ",
+      "ext": {
+        "嗅探词": ".m3u8",
+        "分类url": "https://www.jkdy.cc/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
+        "分类": "电影$1#剧集$2#动漫$4#综艺$4",
+        "搜索模式": "0"
+      }
+    },
+    {
       "key": "csp_赞赞",
       "name": "👌┃赞赞┃切片",
       "type": 3,
@@ -1066,6 +1152,72 @@
       "ext": "http://xiutan.shiyifacai.com/zuoan/api.php/app/"
     },
     {
+      "key": "cc_乌鸦",
+      "name": "🐦┃乌鸦┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/c/乌鸦.json"
+    },
+    {
+      "key": "cc_茶杯狐",
+      "name": "🍵┃茶杯┃狐",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/c/茶杯狐.json"
+    },
+    {
+      "key": "cc_热播之家",
+      "name": "🔥┃热播┃之家",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/c/热播之家.json"
+    },
+    {
+      "key": "cc_shdy2",
+      "name": "🔥┃骚火┃电影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/c/骚火2.json"
+    },
+    {
+      "key": "cc_黑狐",
+      "name": "🦊┃黑狐┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/c/黑狐.json"
+    },
+    {
+      "key": "cc_蛋蛋",
+      "name": "🥚┃蛋蛋┃看剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/c/蛋蛋剧.json"
+    },
+    {
       "key": "csp_小胡",
       "name": "👒┃小胡┃资源┃",
       "type": 1,
@@ -1073,6 +1225,413 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "cc_相声",
+      "name": "📻┃相声┃合集",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/c/相声.json"
+    },
+    {
+      "key": "cc_评书",
+      "name": "📻┃评书┃合集",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/c/评书.json"
+    },
+    {
+      "key": "cc_03影院",
+      "name": "🛀┃03┃影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/c/03yy.json"
+    },
+    {
+      "key": "csp_蘑菇",
+      "name": "🍄┃蘑菇┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/hccx/蘑菇.json"
+    },
+    {
+      "key": "csp_胖虎",
+      "name": "🐯┃胖虎┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/hccx/胖虎.json"
+    },
+    {
+      "key": "csp_蛋蛋",
+      "name": "🌊┃蛋蛋┃影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/hccx/蛋蛋影视.json"
+    },
+    {
+      "key": "csp_达龟",
+      "name": "🐢┃达龟┃影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/hccx/达达龟影视.json"
+    },
+    {
+      "key": "csp_黑狐",
+      "name": "🦝┃黑狐┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/hccx/黑狐影视.json"
+    },
+    {
+      "key": "csp_奇优",
+      "name": "🧼┃奇优┃影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/hccx/奇优影院.json"
+    },
+    {
+      "key": "csp_TVB",
+      "name": "🅱️┃TVB┃云播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/hccx/TVB云播.json"
+    },
+    {
+      "key": "csp_骚火",
+      "name": "🅱️┃骚火┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/hccx/骚火影视.json"
+    },
+    {
+      "key": "csp_农民",
+      "name": "🅱️┃农民┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/hccx/农民影视.json"
+    },
+    {
+      "key": "csp_奇优",
+      "name": "🅱️┃奇优┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/hccx/奇优影视.json"
+    },
+    {
+      "key": "csp_疯狗",
+      "name": "🅱️┃疯狗┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/hccx/疯狗影视.json"
+    },
+    {
+      "key": "csp_万达",
+      "name": "🅱️┃万达┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/hccx/万达影视.json"
+    },
+    {
+      "key": "csp_爱看",
+      "name": "🅱️┃爱看┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/hccx/爱看影视.json"
+    },
+    {
+      "key": "csp_七新",
+      "name": "🅱️┃七新┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/hccx/七新影视.json"
+    },
+    {
+      "key": "csp_超前",
+      "name": "🅱️┃超前┃点播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/hccx/超前B站.json"
+    },
+    {
+      "key": "csp_玖摇",
+      "name": "🅱️┃4K┃剧院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/hccx/4k剧院.json"
+    },
+    {
+      "key": "csp_不卡",
+      "name": "🅱️┃不卡┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/hccx/真不卡影视.json"
+    },
+    {
+      "key": "csp_午舞",
+      "name": "🅱️┃午舞┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/hccx/五五影视.json"
+    },
+    {
+      "key": "csp_视觉",
+      "name": "🅱️┃视觉┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/hccx/新视觉影视.json"
+    },
+    {
+      "key": "csp_圣城",
+      "name": "🅱️┃圣城┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/hccx/圣城影视.json"
+    },
+    {
+      "key": "csp_好戏",
+      "name": "🅱️┃好戏┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/hccx/好戏影视.json"
+    },
+    {
+      "key": "csp_七月",
+      "name": "🅱️┃七月┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/hccx/七月影视.json"
+    },
+    {
+      "key": "csp_日后",
+      "name": "🅱️┃348┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/hccx/348影视.json"
+    },
+    {
+      "key": "csp_土豪",
+      "name": "🅱️┃土豪┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/hccx/土豪影视.json"
+    },
+    {
+      "key": "csp_兔年",
+      "name": "🅱️┃┃YYDS┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/hccx/YYDS影视.json"
+    },
+    {
+      "key": "csp_苹果",
+      "name": "🅱️┃苹果┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/hccx/苹果影视.json"
+    },
+    {
+      "key": "csp_米爱",
+      "name": "🅱️┃米爱┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/hccx/米爱影视.json"
+    },
+    {
+      "key": "csp_非凡",
+      "name": "🅱️┃非凡┃资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/hccx/非凡资源网.json"
+    },
+    {
+      "key": "csp_量子",
+      "name": "🅱️┃量子┃资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/hccx/量子资源网.json"
+    },
+    {
+      "key": "csp_nkdyw",
+      "name": "💢┃南柯┃电影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/hccx/nkdyw.json"
+    },
+    {
+      "key": "csp_555电影",
+      "name": "📯┃555┃电影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/hccx/555电影.json"
+    },
+    {
+      "key": "csp_voflix",
+      "name": "🌾┃VOF┃高清",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/hccx/voflix.json"
+    },
+    {
+      "key": "csp_nkvod",
+      "name": "💢┃耐看┃电影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/hccx/nkvod.json"
+    },
+    {
+      "key": "csp_lkvod",
+      "name": "💢┃来看┃点播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/hccx/lkvod.json"
     },
     {
       "key": "csp_SNzy",
@@ -1510,7 +2069,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/dr/kuba.js"
+      "ext": "./libs/js/kuba.js"
     },
     {
       "key": "XYQH_电影港",
@@ -1540,6 +2099,17 @@
       "quickSearch": 1,
       "jar": "./libs/jar/xyq.jar",
       "filterable": 1
+    },
+    {
+      "key": "mtv_xp_维奇动漫",
+      "name": "🐼维奇丨动漫",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/hccx/维奇动漫.json"
     },
     {
       "key": "cctv",
@@ -1629,6 +2199,17 @@
       "changeable": 1
     },
     {
+      "key": "csp_酷奇",
+      "name": "🎤┃酷奇┃音乐",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/hccx/酷奇MV.json"
+    },
+    {
       "key": "88js",
       "name": "⚽ 88┃看球",
       "playerType": 1,
@@ -1711,6 +2292,17 @@
       "ext": "./libs/js/a8音乐.js"
     },
     {
+      "key": "csp_短剧",
+      "name": "🎧刷刷｜短剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": "./libs/hccx/短剧网.json"
+    },
+    {
       "key": "csp_聚短视频",
       "name": "📽️聚短┃视频",
       "type": 3,
@@ -1744,6 +2336,32 @@
       "filterable": 1,
       "jar": "./libs/jar/XYQH.jar",
       "ext": "./libs/xyq/Bili短剧.json"
+    },
+    {
+      "key": "XBPQ_葡萄",
+      "name": "🎦┃短剧┃葡萄",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./libs/jar/c.jar",
+      "ext": {
+        "数组": "class=\"stui-vodlist__box&&</li",
+        "分类url": "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",
+        "分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"
+      }
+    },
+    {
+      "key": "csp_XBPQ_aoaotv",
+      "name": "🎦┃短剧┃嗷嗷",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./libs/jar/c.jar",
+      "ext": {
+        "分类url": "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html",
+        "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"
+      }
     },
     {
       "key": "Bili",
@@ -1918,7 +2536,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "jar": "./libs/jar/HCCX.jar",
-      "ext": "./libs/hccx/美食合集.json"
+      "ext": "./libs/美食合集.json"
     },
     {
       "key": "csp_Bili_youer",
@@ -2174,124 +2792,15 @@
       }
     },
     {
-      "key": "虎虎1",
-      "name": "🐯┃虎虎┃影视",
+      "key": "短视频",
+      "name": "📱┃网红┃美女",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./libs/虎虎.json",
-      "jar": "./libs/jar/Panda.jar"
-    },
-    {
-      "key": "即可",
-      "name": "👋1080P┃即刻",
-      "type": 3,
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
       "jar": "./libs/jar/c.jar",
-      "api": "csp_XBPQ",
-      "ext": {
-        "嗅探词": ".m3u8",
-        "分类url": "https://www.jkdy.cc/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
-        "分类": "电影$1#剧集$2#动漫$4#综艺$4",
-        "搜索模式": "0"
-      }
-    },
-    {
-      "key": "cc_乌鸦",
-      "name": "🐦┃乌鸦┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./libs/jar/c.jar",
-      "ext": "./libs/c/乌鸦.json"
-    },
-    {
-      "key": "cc_茶杯狐",
-      "name": "🍵┃茶杯┃狐",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./libs/jar/c.jar",
-      "ext": "./libs/c/茶杯狐.json"
-    },
-    {
-      "key": "cc_热播之家",
-      "name": "🔥┃热播┃之家",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./libs/jar/c.jar",
-      "ext": "./libs/c/热播之家.json"
-    },
-    {
-      "key": "cc_shdy2",
-      "name": "🔥┃骚火┃电影",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./libs/jar/c.jar",
-      "ext": "./libs/c/骚火2.json"
-    },
-    {
-      "key": "cc_黑狐",
-      "name": "🦊┃黑狐┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./libs/jar/c.jar",
-      "ext": "./libs/c/黑狐.json"
-    },
-    {
-      "key": "cc_蛋蛋",
-      "name": "🥚┃蛋蛋┃看剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./libs/jar/c.jar",
-      "ext": "./libs/c/蛋蛋剧.json"
-    },
-    {
-      "key": "cc_相声",
-      "name": "📻┃相声┃合集",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./libs/jar/c.jar",
-      "ext": "./libs/c/相声.json"
-    },
-    {
-      "key": "cc_评书",
-      "name": "📻┃评书┃合集",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./libs/jar/c.jar",
-      "ext": "./libs/c/评书.json"
-    },
-    {
-      "key": "cc_03影院",
-      "name": "🛀┃03┃影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./libs/jar/c.jar",
-      "ext": "./libs/c/03yy.json"
+      "ext": "./libs/hccx/短视频聚合.json"
     }
   ],
   "parses": [
@@ -3090,7 +3599,7 @@
     {
       "name": "IPV6",
       "type": 0,
-      "url": "./lib/tv/ipv6.m3u",
+      "url": "./libs/tv/ipv6.m3u",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
